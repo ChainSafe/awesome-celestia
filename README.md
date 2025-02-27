@@ -1245,5 +1245,7 @@ Compilation of technical guides and resources, such as node guides, monitoring s
 - [Proposal to allocate Celestia’s community pool](https://forum.celestia.org/t/thoughts-on-incentives-and-community-building/1746)
 - [Proposal on increasing tax rate to fund ecosystem and long-term growth)](https://forum.celestia.org/t/community-tax-increase-temperature-check/1795)
 - [CIP: reduce inflation](https://forum.celestia.org/t/cip-reduce-inflation/1896) ([GitHub](https://github.com/celestiaorg/CIPs/pull/249))([X.com](https://x.com/deaneigenmann/status/1886784693867020529?s=46&t=0N0S9HONssiokXpdJK6Zbw))
+- [CIP: prevent auto claiming of rewards](https://github.com/celestiaorg/CIPs/pull/251)
+- [CIP: lockup account & staking rewards](https://github.com/celestiaorg/CIPs/pull/253)
 
 ---
